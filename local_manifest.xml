@@ -16,6 +16,5 @@
  <!-- Galaxy A5 (2015) -->
   <project path="kernel/samsung/msm8916" name="Srkndenis/android_kernel_samsung_msm8916" remote="github" revision="lineage-16.0"/>
   <project path="vendor/samsung" name="Srkndenis/proprietary_vendor_samsung" remote="github" revision="lineage-16.0"/>
-  <project path="device/samsung/msm8916-common" name="Srkndenis/android_device_samsung_msm8916-common" remote="github" revision="lineage-16.0"/>
   <project path="device/samsung/a5lte" name="Srkndenis/android_device_samsung_a5lte" remote="github" revision="lineage-16.0"/>
 </manifest>
